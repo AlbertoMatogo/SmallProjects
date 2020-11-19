@@ -1,0 +1,1 @@
+This is a small project to put into practice the knowledge that is available in python. In the master branch you have the code of an application developed in an inefficient way (Exceptions are thrown, the code can be organized in a more orderly way). The objective is to apply different techniques to improve the organization of the code and handle exceptions.
