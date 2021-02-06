@@ -1,0 +1,14 @@
+This is a small project to put into practice the knowledge that is available in python and basic SQL.
+It's use a userform to facilitate the management of a database, connecting python witch SQLite.
+
+**Technology used
+ 1.Language:Python
+ 2.DataBase:SQLite
+ 3.SQL
+ 4.Librery:Tkinter
+
+**With this proyect, you can create a database to manage user registration.
+ 1.Create a database
+ 2.Register the users you want in the database
+ 3.Make queries of the database records 
+ 4.You can delate registers or the entire database.
